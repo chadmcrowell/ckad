@@ -9,4 +9,4 @@ If you'd like to collaborate:
 - create a pull request after making changes to the branch
 - share your pull request with @chadmcrowell
 
-May your Kubernetes journey be prosperous! 
+> May your Kubernetes journey be prosperous! 
